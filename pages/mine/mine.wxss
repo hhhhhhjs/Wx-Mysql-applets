@@ -1,0 +1,15 @@
+.title {
+  font-size: 60rpx;
+  font-weight: 600;
+}
+
+.layout {
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+
+.avatar {
+  width: 240rpx;
+  height: 240rpx;
+  border-radius: 50%;
+}

@@ -1,0 +1,7 @@
+<view class="layout">
+  <text class="title">我的个人信息</text>
+  <view>
+    <image open-type="chooseAvatar" bindchooseavatar="getUserAva" class="avatar" src="{{avatarUrl}}" bind:tap="getAuth"></image>
+    <button class="button" open-type="chooseAvatar" bindchooseavatar="getUserAva">点击获取头像</button>
+  </view>
+</view>
